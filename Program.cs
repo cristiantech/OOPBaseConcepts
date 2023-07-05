@@ -20,7 +20,9 @@
 
 
 
-using OOPConceptos;
+
+using OOPConcepts.Logica;
+
 try
 {
     var fecha1 = new Date()
