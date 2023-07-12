@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Comment CommentText="Sistema Employes&#xD;&#xA;">
+    <Position X="4.448" Y="0.5" Height="0.333" Width="1.648" />
+  </Comment>
+  <Class Name="OOPConcepts.Logica.Date">
+    <Position X="9" Y="0.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="OOPConcepts.Logica.SalaryEmployes">
+    <Position X="6.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="OOPConcepts.Logica.Employes">
+    <Position X="5" Y="1.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="OOPConcepts.Logica.HourEmployes">
+    <Position X="7" Y="0.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="OOPConcepts.Logica.CommisionEmploye">
+    <Position X="2.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="OOPConcepts.Logica.BaseCommisionEmploye">
+    <Position X="1" Y="0.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
